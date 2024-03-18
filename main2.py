@@ -24,9 +24,9 @@ import zipfile
 import dropbox
 
 dbx = dropbox.Dropbox(oauth2_access_token="sl.BlEYQdb8BsBcgtL73urGLAKw-mqTeDzgOk_3sjaNH32K351MPqcIRZjBjir20K1Z0_Wqo4ODoOy_DrxLYv-J2URUSl85iXUIW7GwJ9wJJRTYr_gB1cFft453UiGbFhnt83WV1BEgXhpzEF2Dkyt8-nc",
-                      oauth2_refresh_token="AHuUgKmz3DoAAAAAAAAAAYAghShsQLxtx0vO165kpKcOxL_UWLmNzUcWg1W8MxJs",
-                      app_key="h5iu2aw6caauzy5",
-                      app_secret="p6pa7t5d18abn3h")
+                      oauth2_refresh_token="N/A",
+                      app_key="N/A",
+                      app_secret="N/A")
 
 
 def my_random_string(string_length=10):
@@ -155,12 +155,12 @@ tempToZip = {}
 tempToPhone = {}
 tempToState = {}
 
-user = "voicecrackcentralofficial@gmail.com"
+user = "Enter Email"
 password = ""
 imap_url = "imap.gmail.com"
 ssl._create_default_https_context = ssl._create_unverified_context
 intents = discord.Intents.all()
-DB_GUILD_ID = 1158838661706686476
+DB_GUILD_ID = #your guild id
 headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64)'}
 word_url = "https://svnweb.freebsd.org/csrg/share/dict/words?view=co&content-type=text/plain"
 req = urllib.request.Request(word_url, headers=headers)
@@ -2869,4 +2869,4 @@ async def on_ready():
 
 
 # Run the bot
-bot.run('MTIwMzcxNjY3NTI5MjIzMzc4OA.GLDnwP.EpvOFliYBUrYH0-nZYwrQTMtU2Nv5HEvov2I5M')
+bot.run('KEY')
