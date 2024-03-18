@@ -1,2 +1,0 @@
-provider,class,weight,from_name,from_company,from_address1,from_address2,from_city,from_state,from_postcode,from_country,to_name,to_company,to_address1,to_address2,to_city,to_state,to_postcode,to_country,length,width,height
-usps,usps_priority,1,b,b,d,e,f,AL,h,US,v,c,f,g,h,AL,q,US,1,2,3
