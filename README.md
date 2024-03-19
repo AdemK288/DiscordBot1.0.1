@@ -1,0 +1,1 @@
+This discord bot is designed to handle payment info, database processing, for making usps/ups/fedex or any other carrier on discord. This project is not yet deployed as a user interfaced package, but will be in the future.
